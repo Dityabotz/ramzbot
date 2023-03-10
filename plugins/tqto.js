@@ -12,49 +12,46 @@ let handler = async function (m, { text, usedPrefix, command }) {
 let cap = `*BIG THANKS TO*
     
 Terutama Terimakasih Teruntuk:
-➸ @${'6288279268363'.split('@')[0]}
+➸ @${'6281316235253'.split('@')[0]}
 
 Terimakasih Juga Untuk Kang Banned:
 ➸ 0@s.whatsapp.net
 
 ─────────────────────
-• God
-• My ortu
-• King Of Bear ( Me )
-• Nurutomo
-• Adiwajshing
-• Ariffb
-• Amel
-• IrwanX
-• Dawnfrosty
-• Rteam1
-• Beniismael
-• Raditya 
-• AlyaaXzy 
-• Haori 
-• David
-• Rozi
-• Letta
-• Yanzz
-• Furqan
-• Elyas
-• Rasel
-• Xteam
-• Khael
-• Atenabot
-• Baka Botz
+• Tuhan Yang Maha Esa
+• Orang Tua
+• Zyrex-MD MultiDevice( Me )
+• Ivantheo Rizky Putra
+• Callista Verlian
+• Sans-BOT
+• Rian Habibullah
+• Saipul Anuar
+• Muhammad Ridwan Reynaldy
+• Muhammad Nasir
+• NazeDev-BOT MD
+• Fangz-XD BOT MD
+
+Anime Support System
+• Gawr Gura
+• MoeChann
+
+
+Perusahaan Terkait
+
+• PT. PERTAMINA PERSERO
+• PT. THIEES INDONESIA
+• PT. FREEPORT INDONESIA
+• Activition
+• Timi Studios
+• Tencent Games
+• Garena
+• Riot Games
+• Moonton
 • ZeeoneOfc
-• Zeks
-• Rendycraft  
-• Krizynofc
-• Nadin
-• Mursid
-• Jarot
-• Tio
-• Aca Mirabel
-• Ramdani
-• Penyedia Layanan API
-• Orang-orang yang Berdonasi
+• Microsoft Corporation
+• Google Adsense
+
+
 ─────────────────────`
   let buttonMessage= {
 'document':{'url':'https://youtu.be/hklv-Ysqqac'},
