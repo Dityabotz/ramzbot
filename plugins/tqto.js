@@ -31,16 +31,16 @@ Terimakasih Juga Untuk Kang Banned:
 • NazeDev-BOT MD
 • Fangz-XD BOT MD
 
-𝙰NIME TERKAIT
+𝙰𝚗𝚒𝚖𝚎 𝚝𝚎𝚛𝚔𝚊𝚒𝚝
 • Gawr Gura
 • MoeChann
 
 
-𝙿ERUSAHAAN TERKAIT
+𝙿𝚎𝚛𝚞𝚜𝚊𝚑𝚊𝚊𝚗 𝚃𝚎𝚛𝚔𝚊𝚒𝚝
 
-• PT. PERTAMINA PERSERO
-• PT. THIEES INDONESIA
-• PT. FREEPORT INDONESIA
+• PT. Pertamina Persero
+• PT. Thiees Indonesia
+• PT. Freeport Indonesia
 • Activition
 • Timi Studios
 • Tencent Games
@@ -67,8 +67,8 @@ Terimakasih Juga Untuk Kang Banned:
 'mediaType':2,
 'previewType':'pdf',
 'title':`💌 Ultah Owner: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-'body':`⚘ by ᴹᴿ᭄ King Of Bear ×፝֟͜×`,
-'thumbnail':await(await fetch('https://telegra.ph/file/6ab4daac226292a112540.jpg')).buffer(),
+'body':`⚘ by ᴹᴿ᭄ King Of Ramzz ×፝֟͜×`,
+'thumbnail':await(await fetch('https://telegra.ph/file/b79f5434198052c642a7e.jpg')).buffer(),
 'sourceUrl':'https://youtu.be/obPptvXfoiQ'}},
 'caption':cap,
 'footer':`Ini Ucapan Terima Kasih Untuk Orang Yang Telah Berpatisipasi
