@@ -20,7 +20,7 @@ Terimakasih Juga Untuk Kang Banned:
 ─────────────────────
 • Tuhan Yang Maha Esa
 • Orang Tua
-• Zyrex-MD MultiDevice( Me )
+• Zyrex-MD MultiDevice ( Me )
 • Ivantheo Rizky Putra
 • Callista Verlian
 • Sans-BOT
@@ -31,12 +31,12 @@ Terimakasih Juga Untuk Kang Banned:
 • NazeDev-BOT MD
 • Fangz-XD BOT MD
 
-Anime Support System
+𝙰NIME TERKAIT
 • Gawr Gura
 • MoeChann
 
 
-Perusahaan Terkait
+𝙿ERUSAHAAN TERKAIT
 
 • PT. PERTAMINA PERSERO
 • PT. THIEES INDONESIA
@@ -54,22 +54,22 @@ Perusahaan Terkait
 
 ─────────────────────`
   let buttonMessage= {
-'document':{'url':'https://youtu.be/hklv-Ysqqac'},
+'document':{'url':'https://youtu.be/obPptvXfoiQ'},
 'mimetype':global.ddocx,
-'fileName':'「 ᴹᴿ᭄ King Of Bear ×፝֟͜× 」',
+'fileName':'「 ᴹᴿ᭄ King Of Ramzz ×፝֟͜× 」',
 'fileLength':fsizedoc,
 'pageCount':fpagedoc,
 'contextInfo':{
 'forwardingScore':555,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl':'https://youtu.be/hklv-Ysqqac',
+'mediaUrl':'https://youtu.be/obPptvXfoiQ',
 'mediaType':2,
 'previewType':'pdf',
 'title':`💌 Ultah Owner: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
 'body':`⚘ by ᴹᴿ᭄ King Of Bear ×፝֟͜×`,
 'thumbnail':await(await fetch('https://telegra.ph/file/6ab4daac226292a112540.jpg')).buffer(),
-'sourceUrl':'https://youtu.be/hklv-Ysqqac'}},
+'sourceUrl':'https://youtu.be/obPptvXfoiQ'}},
 'caption':cap,
 'footer':`Ini Ucapan Terima Kasih Untuk Orang Yang Telah Berpatisipasi
 
